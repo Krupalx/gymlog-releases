@@ -1,0 +1,7 @@
+{
+  "versionCode": 4,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v4/GymLog.apk",
+  "sha256": "eead58f416b9c7a0cae6f71c827de730d3c6f68e7a65472db4a71b8e56d31f9c",
+  "notes": "Corrected standalone Gym Log launch path, phone-step access, and direct updates."
+}
