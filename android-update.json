@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "7.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v7/GymLog.apk",
-  "sha256": "e1169450ec4d240519462f82fe50d4bf12d7276c96f3c65903170c21bfaf086c",
-  "notes": "Enables Google login and lets existing private accounts connect Google without losing local workouts."
+  "versionCode": 8,
+  "versionName": "8.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v8/GymLog-v8.apk",
+  "sha256": "a01bea1f37c9d7d43ea0f995ae5d726eb1f930d9ab459fa61660570a6a1769be",
+  "notes": "Adds native Google Health Connect sync for steps, distance, active calories, height, weight, body fat, lean mass, and bone mass."
 }
