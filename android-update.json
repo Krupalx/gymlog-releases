@@ -2,6 +2,6 @@
   "versionCode": 8,
   "versionName": "8.0",
   "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v8/GymLog-v8.apk",
-  "sha256": "a01bea1f37c9d7d43ea0f995ae5d726eb1f930d9ab459fa61660570a6a1769be",
+  "sha256": "3b54e506cddfb5398ef58483676a45449d80e53d7fca245b8509ad8cf22a33f9",
   "notes": "Adds native Google Health Connect sync for steps, distance, active calories, height, weight, body fat, lean mass, and bone mass."
 }
