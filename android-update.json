@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "5.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v5/GymLog.apk",
-  "sha256": "53ff2d3530ddc007b19fdb79a64c221e0228ed7e71b827f7d46252929b903f86",
-  "notes": "Fixes the stuck Google login and adds a Continue without Google fallback."
+  "versionCode": 6,
+  "versionName": "6.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v6/GymLog.apk",
+  "sha256": "10f3de88d14ece55bac825eff2c3386fb0be970af5543ba0c7beb33c505e322b",
+  "notes": "Opens Gym Log automatically instead of stopping at the unavailable Google login screen."
 }
