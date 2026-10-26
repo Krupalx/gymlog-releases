@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "6.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v6/GymLog.apk",
-  "sha256": "10f3de88d14ece55bac825eff2c3386fb0be970af5543ba0c7beb33c505e322b",
-  "notes": "Opens Gym Log automatically instead of stopping at the unavailable Google login screen."
+  "versionCode": 7,
+  "versionName": "7.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v7/GymLog.apk",
+  "sha256": "e1169450ec4d240519462f82fe50d4bf12d7276c96f3c65903170c21bfaf086c",
+  "notes": "Enables Google login and lets existing private accounts connect Google without losing local workouts."
 }
