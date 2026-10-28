@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "9.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v9/GymLog-v9.apk",
-  "sha256": "4c980da93b5ffcd5a6f065dd5e08ab495f6ee94f3a6fb7e20add3012fa3f4a3a",
-  "notes": "Turns Home into a data-connections hub and adds automatic Basic-Fit sync for visits, streak, badges, membership summary, and body measurements alongside Health Connect."
+  "versionCode": 10,
+  "versionName": "10.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v10/GymLog-v10.apk",
+  "sha256": "0bfd54b203b1639064aed4dbb4a1efdc0d6a57739055e47b782c4e23b60e4c36",
+  "notes": "Shows verified Basic-Fit visit totals (this month and lifetime), keeps the best continuous weekly visit streak, and replaces Following/Followers with one Connections count."
 }
