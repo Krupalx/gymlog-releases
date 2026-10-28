@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "10.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v10/GymLog-v10.apk",
-  "sha256": "0bfd54b203b1639064aed4dbb4a1efdc0d6a57739055e47b782c4e23b60e4c36",
-  "notes": "Shows verified Basic-Fit visit totals (this month and lifetime), keeps the best continuous weekly visit streak, and replaces Following/Followers with one Connections count."
+  "versionCode": 11,
+  "versionName": "11.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v11/GymLog-v11.apk",
+  "sha256": "bb361de01629fda9293758db9ae5c1343b36ec8952ac8cdfdac4c48923593281",
+  "notes": "Rebuilds Log with three workout-day tabs, grouped exercises in your learned routine order, automatic movement to the next exercise, and the last two attempts visible while logging."
 }
