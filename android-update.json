@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "11.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v11/GymLog-v11.apk",
-  "sha256": "bb361de01629fda9293758db9ae5c1343b36ec8952ac8cdfdac4c48923593281",
-  "notes": "Rebuilds Log with three workout-day tabs, grouped exercises in your learned routine order, automatic movement to the next exercise, and the last two attempts visible while logging."
+  "versionCode": 12,
+  "versionName": "12.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v12/GymLog-v12.apk",
+  "sha256": "37282db8d7724e32a0f4d7e8b2694625af80ddc8f06d5129a4d8540cd5cd59a0",
+  "notes": "Fixes empty Log plans by repairing missing exercise templates on launch and showing available exercises whenever no regular routine can be inferred."
 }
