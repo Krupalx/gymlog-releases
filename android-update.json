@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "12.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v12/GymLog-v12.apk",
-  "sha256": "37282db8d7724e32a0f4d7e8b2694625af80ddc8f06d5129a4d8540cd5cd59a0",
-  "notes": "Fixes empty Log plans by repairing missing exercise templates on launch and showing available exercises whenever no regular routine can be inferred."
+  "versionCode": 13,
+  "versionName": "13.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v13/GymLog-v13.apk",
+  "sha256": "475a945c165ed8a7e843445db5b6ef0cf138e8489d31b9cbcef2039021050898",
+  "notes": "Redesigns workout logging with direct load and rep entry, compact LAST/TODAY/PR set states, persistent form and machine setup notes, and a separate note for your next workout."
 }
