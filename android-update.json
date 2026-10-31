@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "14.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v14/GymLog-v14.apk",
-  "sha256": "4e7f8732f48ae66ee0ebabbc585f9eb0aee7a9134fc97bbec0c53b3af86f7956",
-  "notes": "Refines the Log and exercise-entry screens with calmer typography, consistent spacing, quieter controls, compact set rows, and clearer Last, Today, and PR states. Also fixes incomplete imported sets showing null reps or false targets."
+  "versionCode": 15,
+  "versionName": "15.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v15/GymLog-v15.apk",
+  "sha256": "a0c57823e97ddcc6fda60762f10c25f3d909e579a0ff18a90dca47d8615e95ff",
+  "notes": "Adds OnePlus Clock-style inline wheels for load and reps. Tap either value, scroll both columns in place with snapping and haptic feedback, then use the existing check button to log the set—no extra screen or Done step."
 }
