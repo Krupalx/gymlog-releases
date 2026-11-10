@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "16.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v16/GymLog-v16.apk",
-  "sha256": "7bff4f87446e47c0f7e3f8794731e800e459623d1d49a0a7375b4a3e34063135",
-  "notes": "Adds suggestion-first workout logging: choose freely from all seven muscle groups, see today's recommended groups and exercises highlighted, and see completed exercises in a distinct state. Sets, reps, load, date and history continue to be recorded for progress tracking."
+  "versionCode": 17,
+  "versionName": "17.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v17/GymLog-v17.apk",
+  "sha256": "61d90b49022cc847cc18544d3ae923cd8308c1d6ac12765a5ce06adeac6730c2",
+  "notes": "Shows how many workouts included each muscle group and exercise in the Log picker."
 }
