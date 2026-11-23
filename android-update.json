@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "21.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v21/GymLog-v21.apk",
-  "sha256": "ee863ac115f7532aed3b2564b2d57dfa3c3fa3c4b3130af1bce2f78cf8697ed9",
-  "notes": "New exercise screen: sets on top, notes at the bottom. Tap a set to slide up the weight and reps controls, already filled with last time's numbers."
+  "versionCode": 22,
+  "versionName": "22.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v22/GymLog-v22.apk",
+  "sha256": "ae608bd1dbd33fbaa7035c2cf14144cd2b6f6193b24ec3f292102643ec8bf195",
+  "notes": "Exercises inside each muscle group are now listed most-trained first."
 }
