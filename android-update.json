@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "18.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v18/GymLog-v18.apk",
-  "sha256": "296f37ff69a63a404eb942d7f3fa54ef66b49e9f69ee3981335e38f5c56c3620",
-  "notes": "New one-screen logger with weight and reps dials, setup and next-time notes with quick phrases, a this-week bar with your training streak, and a new app logo."
+  "versionCode": 19,
+  "versionName": "19.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v19/GymLog-v19.apk",
+  "sha256": "6368f1a2e8784af42cbd0364908b380d85925a7431e74c1f27155409b0ba4625",
+  "notes": "Adds Restore from file (More menu) so you can load your full workout history onto this phone."
 }
