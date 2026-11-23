@@ -1,10 +1,10 @@
 {
-  "version": 3001,
+  "version": 3002,
   "minNative": 30,
-  "sha256": "5aa292199ba6c0e78a9360558fc4d4f658d41f0ae7ef6af9706873b4d79303af",
-  "size": 137997,
-  "url": "https://github.com/Krupalx/gymlog-releases/releases/download/web-test-3001/web-3001.zip",
-  "notes": "Test bundle for live updates",
+  "sha256": "1b9192b2dd4e1a02d583e893b2f305c5482ce10350f7d0db235db2130c22f988",
+  "size": 137353,
+  "url": "https://github.com/Krupalx/gymlog-releases/releases/download/web-test-3002/web-3002.zip",
+  "notes": "Broken bundle to test rollback",
   "channel": "test",
-  "publishedAt": "2026-11-23T18:46:48.247Z"
+  "publishedAt": "2026-11-23T18:49:29.856Z"
 }
