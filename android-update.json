@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "17.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v17/GymLog-v17.apk",
-  "sha256": "61d90b49022cc847cc18544d3ae923cd8308c1d6ac12765a5ce06adeac6730c2",
-  "notes": "Shows how many workouts included each muscle group and exercise in the Log picker."
+  "versionCode": 18,
+  "versionName": "18.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v18/GymLog-v18.apk",
+  "sha256": "296f37ff69a63a404eb942d7f3fa54ef66b49e9f69ee3981335e38f5c56c3620",
+  "notes": "New one-screen logger with weight and reps dials, setup and next-time notes with quick phrases, a this-week bar with your training streak, and a new app logo."
 }
