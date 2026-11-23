@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "28.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v28/GymLog-v28.apk",
-  "sha256": "aabca595a27763a5f0ebef305f6f684f941d01f5e14c9666679ebdeadfe35108",
-  "notes": "Excel now marks estimated reps (weight-only sets from your notes are set to 7). Cleaner body weight data."
+  "versionCode": 29,
+  "versionName": "29.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v29/GymLog-v29.apk",
+  "sha256": "01ea92577a7cb9d7cf45694f68745b18e433b28c75f9c2bb8deadd8f143aff75",
+  "notes": "Popups now match the app: update offers, confirmations and the add-exercise form use Gym Log's own design instead of Android's."
 }
