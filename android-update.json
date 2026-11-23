@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "26.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v26/GymLog-v26.apk",
-  "sha256": "e428b5330d059ca24c6287c3bcd3565d73873ee12d48e3d969cbe930b084fdbd",
-  "notes": "Activity heatmap is now one simple map in blue: gym days stand out, other days shade by your steps."
+  "versionCode": 27,
+  "versionName": "27.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v27/GymLog-v27.apk",
+  "sha256": "527a09261785f73dcd2e77d446f0173fa1713a80e9b9d5f9827b7e6affa3905a",
+  "notes": "Basic-Fit is back: open the menu and tap Basic-Fit visits to import your gym check-ins. The heatmap is now violet."
 }
