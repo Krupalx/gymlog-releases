@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "19.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v19/GymLog-v19.apk",
-  "sha256": "6368f1a2e8784af42cbd0364908b380d85925a7431e74c1f27155409b0ba4625",
-  "notes": "Adds Restore from file (More menu) so you can load your full workout history onto this phone."
+  "versionCode": 20,
+  "versionName": "20.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v20/GymLog-v20.apk",
+  "sha256": "c830a25bd179253691ddc90c2300153312831bd912e8567575038783972ef65d",
+  "notes": "Back now works with the Android back gesture everywhere: it steps back one screen and only leaves the app from the home screen. The in-app back arrows are gone."
 }
