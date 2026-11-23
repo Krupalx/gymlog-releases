@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "20.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v20/GymLog-v20.apk",
-  "sha256": "c830a25bd179253691ddc90c2300153312831bd912e8567575038783972ef65d",
-  "notes": "Back now works with the Android back gesture everywhere: it steps back one screen and only leaves the app from the home screen. The in-app back arrows are gone."
+  "versionCode": 21,
+  "versionName": "21.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v21/GymLog-v21.apk",
+  "sha256": "ee863ac115f7532aed3b2564b2d57dfa3c3fa3c4b3130af1bce2f78cf8697ed9",
+  "notes": "New exercise screen: sets on top, notes at the bottom. Tap a set to slide up the weight and reps controls, already filled with last time's numbers."
 }
