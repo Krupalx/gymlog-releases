@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "29.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v29/GymLog-v29.apk",
-  "sha256": "01ea92577a7cb9d7cf45694f68745b18e433b28c75f9c2bb8deadd8f143aff75",
-  "notes": "Popups now match the app: update offers, confirmations and the add-exercise form use Gym Log's own design instead of Android's."
+  "versionCode": 30,
+  "versionName": "30.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v30/GymLog-v30.apk",
+  "sha256": "eb1c1d1c41f1d4865ab5ac381f61f867fe2321373ea39243d41256a205ba4d7e",
+  "notes": "Live updates: from now on most Gym Log improvements arrive automatically when you reopen the app, with no install. This is the one install that turns it on."
 }
