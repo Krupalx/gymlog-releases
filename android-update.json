@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "27.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v27/GymLog-v27.apk",
-  "sha256": "527a09261785f73dcd2e77d446f0173fa1713a80e9b9d5f9827b7e6affa3905a",
-  "notes": "Basic-Fit is back: open the menu and tap Basic-Fit visits to import your gym check-ins. The heatmap is now violet."
+  "versionCode": 28,
+  "versionName": "28.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v28/GymLog-v28.apk",
+  "sha256": "aabca595a27763a5f0ebef305f6f684f941d01f5e14c9666679ebdeadfe35108",
+  "notes": "Excel now marks estimated reps (weight-only sets from your notes are set to 7). Cleaner body weight data."
 }
