@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "25.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v25/GymLog-v25.apk",
-  "sha256": "a3eb58e690474539511d5cf2544e682231227f48437d20fcb47babc5680d7df0",
-  "notes": "New left menu (tap the three lines at the top left) with Excel export inside it, and a GitHub-style activity heatmap of your training and steps."
+  "versionCode": 26,
+  "versionName": "26.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v26/GymLog-v26.apk",
+  "sha256": "e428b5330d059ca24c6287c3bcd3565d73873ee12d48e3d969cbe930b084fdbd",
+  "notes": "Activity heatmap is now one simple map in blue: gym days stand out, other days shade by your steps."
 }
