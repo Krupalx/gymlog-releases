@@ -1,10 +1,10 @@
 {
-  "version": 3002,
+  "version": 3003,
   "minNative": 30,
   "sha256": "1b9192b2dd4e1a02d583e893b2f305c5482ce10350f7d0db235db2130c22f988",
   "size": 137353,
   "url": "https://github.com/Krupalx/gymlog-releases/releases/download/web-test-3002/web-3002.zip",
-  "notes": "Broken bundle to test rollback",
+  "notes": "Tampered after signing (must be refused)",
   "channel": "test",
   "publishedAt": "2026-11-23T18:49:29.856Z"
 }
