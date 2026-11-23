@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "31.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v31/GymLog-v31.apk",
-  "sha256": "2ebb8766dcd64f4aba31f031531d35e49dad5933fe0e7eb84df2f8fa9b3eaacc",
+  "versionCode": 32,
+  "versionName": "32.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v32/GymLog-v32.apk",
+  "sha256": "b6de6f478a8ac77118ec39732458432416819ac9aa7695df00e4513a7215bcce",
   "notes": "New fox app icon."
 }
