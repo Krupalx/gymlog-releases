@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "22.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v22/GymLog-v22.apk",
-  "sha256": "ae608bd1dbd33fbaa7035c2cf14144cd2b6f6193b24ec3f292102643ec8bf195",
-  "notes": "Exercises inside each muscle group are now listed most-trained first."
+  "versionCode": 23,
+  "versionName": "23.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v23/GymLog-v23.apk",
+  "sha256": "8eae042646ccc5109152896177122159facae927975fd69c6fad9375644000e9",
+  "notes": "Excel export now syncs with your account first, so the file always matches your data."
 }
