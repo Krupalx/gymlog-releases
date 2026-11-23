@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "23.0",
-  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v23/GymLog-v23.apk",
-  "sha256": "8eae042646ccc5109152896177122159facae927975fd69c6fad9375644000e9",
-  "notes": "Excel export now syncs with your account first, so the file always matches your data."
+  "versionCode": 24,
+  "versionName": "24.0",
+  "apkUrl": "https://github.com/Krupalx/gymlog-releases/releases/download/v24/GymLog-v24.apk",
+  "sha256": "7798183170d3791e5baa188bc27de2707ccf96d1f99635be86e26406d154f36d",
+  "notes": "Steps: Gym Log can now ask Health Connect for past data, so it can fill in days older than 30 (up to 90 days back)."
 }
